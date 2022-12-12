@@ -1,0 +1,27 @@
+body {
+    background-color: #aae3be;
+    max-width: 720px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: auto;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #6aa84f;
+    text-align: center;
+
+}
+
+footer {
+    margin-bottom: 30px;
+
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+
